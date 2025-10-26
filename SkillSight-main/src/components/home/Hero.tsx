@@ -6,7 +6,7 @@ const Hero = () => {
       {/* Spline Background */}
        <div className="absolute -top-[25rem] sm:-top-[28rem] md:-top-[35rem] left-1/2 -translate-x-1/2 -translate-y-0 w-[280%] sm:w-[350%] md:w-[500%] h-[140vh] sm:h-[200vh] md:h-[250vh] z-0 pointer-events-none flex items-center justify-center">
   <iframe 
-    src='https://app.spline.design/community/file/fb5c9572-898e-4c53-a7ea-fab22311ea46' 
+    src='https://my.spline.design/particleaibrain-tv3hLJGJHu7SH0i4ZUGsD3Eq/' 
     frameBorder='0' 
     width='100%' 
     height='100%'
